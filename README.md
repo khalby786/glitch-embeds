@@ -13,7 +13,7 @@ To embed a Glitch collection in your project,
 <div id = "collection-gallery"></div>
 ```
 
-2. Download the script from https://glitch.com/edit/#!/glitch-collection-gallery-script?path=script.js:1:0 into a new `.js` file in your project.
+2. Download the script from https://github.com/khalby786/glitch-embeds/blob/main/scripts/collection.js into a new `.js` file in your project or use the CDN link: https://cdn.jsdelivr.net/gh/khalby786/glitch-embeds/scripts/collection.js
 
 3. Call the script in your HTML file.
 ```html
