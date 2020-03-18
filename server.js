@@ -5,7 +5,7 @@
 const express = require("express");
 const app = express();
 
-app.use(express.static("public"));
+app.use(express.static("demo/public"));
 
 // http://expressjs.com/en/starter/basic-routing.html
 app.get("/collection", function(request, response) {
