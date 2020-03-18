@@ -1,5 +1,7 @@
 #/bin/sh
 
+git update-index --chmod=+x git.sh
+
 # Fetch the newest code
 git fetch origin main
 
