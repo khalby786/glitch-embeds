@@ -31,3 +31,5 @@ To embed a Glitch collection in your project,
 
 ### Inspiration
 The GeoGlitches blog had a view called web-ring that allowed you to display projects in a collection in a similar way. Check out the GeoGlitches blog here: https://glitch.com/~geoglitchies
+
+By Khaleel Gibran @khalby786
