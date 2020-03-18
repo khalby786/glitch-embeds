@@ -4,6 +4,8 @@
 
 Glitch Embeds are a bunch of embeds that you can add to your website for [Glitch](https://glitch.com) profiles, projects, teams and collections!
 
+More embeds on the way!
+
 ## Collection.js
 
 To embed a Glitch collection in your project,
