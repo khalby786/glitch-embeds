@@ -1,12 +1,12 @@
 # Under construction!
 
-Glitch Collection Gallery lets you add a gallery of your Glitch projects in a specific collection to your website (or wherever JavaScript and HTML works!).
-___
-## Demo
-View the demo of the gallery at https://glitch-collection-gallery.glitch.me. In the website, you will see two textboxes. In the first one, enter your Glitch username (without the `@`) Example: `khalby786`. In the second textbox, enter your collection name. Now, collection names should be entered according to the URL of the collection. If the collection's name is "My Big Collection", then you should type it as "my-big-collection'. It is better to copy the name from the url of the collection page on Glitch. Click 'Submit' and you'll see all the projects of that collection in the form of a slideshow!
+# Glitch Embeds
 
-## Using it in your website
-Here's how you use it in your website:
+Glitch Embeds are a bunch of embeds that you can add to your website for [Glitch](https://glitch.com) profiles, projects, teams and collections!
+
+## Collection.js
+
+To embed a Glitch collection in your project,
 
 1. Make sure you have a `<div>` element in your HTML file with a proper id where you want the collection gallery.
 ```
