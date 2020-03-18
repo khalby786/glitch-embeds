@@ -36,3 +36,4 @@ The GeoGlitches blog had a view called web-ring that allowed you to display proj
 
 By Khaleel Gibran
 @khalby786
+https://khaleelgibran.com
